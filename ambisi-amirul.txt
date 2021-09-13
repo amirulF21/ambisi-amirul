@@ -1,0 +1,4 @@
+ambisi amirul
+- Konsisten untuk belajar mikrokontroller 2 kali seminggu
+- Membuat platform untuk pengguna android developer
+- Memuat forum diskusi untuk tugas akhir saya
